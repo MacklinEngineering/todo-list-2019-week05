@@ -1,0 +1,78 @@
+#window {
+  font-family: cursive;
+  background-image: radial-gradient(circle, white, purple);
+  border: 5px double white;
+  margin-left: 75px;
+  margin-right: 75px;
+
+}
+
+h1 {
+  color: orange;
+  font-family: cursive;
+   text-align: center;
+  text-decoration: underline;
+}
+
+#addToList {
+  font-family: cursive;
+  list-style-type: none;
+  margin-left: 25%;
+  width: 50%;
+  text-align: center;
+  background-color: white;
+
+
+}
+#addButton {
+  font-family: cursive;
+  text-align: center;
+  background-color: transparent;
+  color: orange;
+
+}
+
+#doneCount {
+  text-decoration: underline;
+  color: orange;
+
+}
+
+ul {
+/*   border: 4px groove white; */
+  list-style-type: none;
+  text-align: center;
+  background-position: 0% 0%;
+/*   background-color: white; */
+  margin-left: 25%;
+  margin-right: 25%;
+
+
+
+}
+
+#clearList{
+  font-family: cursive;
+  text-align: center;
+  background-color: white;
+   width: 50%;
+  margin-left: 25%;
+  margin-bottom: 15px;
+
+}
+
+#clearCompleted{
+  font-family: cursive;
+  text-align: center;
+  background-color: transparent;
+  width: 50%;
+  margin-left: 25%;
+  margin-bottom: 5px;
+  color: orange;
+
+}
+
+#summary {
+  text-align: center;
+
+}
